@@ -1,3 +1,5 @@
 Sacar al perro
 Comprar la leche
 Ya no puedo más con la vida
+Aceptar este pull-request
+Ver vídeo sobre gatos: https://www.latlmes.com/tech/cat-learns-use-git-1
